@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: rootmapping
+---
+testFramework: junit
+sourceLanguage: java
